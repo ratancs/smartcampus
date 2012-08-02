@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, main!</string>
+    <string name="app_name">SmartCampus</string>
+    <string name="welcome">Welcome to Smart Campus</string>
+    <string name="reg">Registration Number</string>
+    <string name="pas">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="acd">Academics</string>
+    <string name="help">Help me</string>
+    <string name="cocuricular">Co-curricular</string>
+    <string name="lib">Library</string>
+    <string name="faculty">Faculty</string>
+    <string name="map">College Map</string>
+    <string name="homework">Latest Home Work</string>
+    <string name="timetable">Time Table</string>
+    <string name="syllabus">Syllabus</string>
+    <string name="examdetails">Exam Details</string>
+    <string name="Workshop">Workshop &amp; Seminar</string>
+    <string name="Secondhand">Second Hand Sell &amp; Buy</string>
+    <string name="register">Register</string>
+
+</resources>
